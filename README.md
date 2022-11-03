@@ -210,7 +210,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [commits-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/commit-activity
 [contributors-shield]: https://img.shields.io/badge/contributors-👨‍🔬-blue
 [contributors-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/contributors
-[stars-shield]: https://img.shields.io/badge/contributors-🌟-yellow
+[stars-shield]: https://img.shields.io/badge/stars-🌟-yellow
 [stars-url]: https://github.com/Fyzee-GitHub/fyzee-test/stargazers
 [issues-shield]: https://img.shields.io/badge/contributors-🐞-red
 [issues-url]: https://github.com/Fyzee-GitHub/fyzee-test/issues
