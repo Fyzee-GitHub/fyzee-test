@@ -11,7 +11,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center" style="background-color:red;padding:20px;">
+<div align="center">
   <a href="https://github.com/Fyzee-GitHub/fyzee-test">
     <img src="images/logo.png" alt="Logo" width="140" height="60">
   </a>
