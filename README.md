@@ -91,7 +91,7 @@ See the [open issues](https://github.com/Fyzee-GitHub/fyzee-test/issues) for a f
 [contributors-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/contributors
 [stars-shield]: https://img.shields.io/badge/stars-🌟-yellow
 [stars-url]: https://github.com/Fyzee-GitHub/fyzee-test/stargazers
-[issues-shield]: https://img.shields.io/badge/contributors-🐞-red
+[issues-shield]: https://img.shields.io/badge/issues-🐞-red
 [issues-url]: https://github.com/Fyzee-GitHub/fyzee-test/issues
 
 [frontend-screenshot]: images/frontend.png
