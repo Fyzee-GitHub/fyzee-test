@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -10,20 +12,18 @@
   <h3 align="center">EPP – Fast & Easy Recruitment Application (FERA)</h3>
 
   <p align="center">
-    Welcome to FERA backend repository!
+    Welcome to FERA backend repo!
     <br />
     <a href="https://github.com/Fyzee-GitHub/fyzee-test"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://blueberry.etiqapartner.com.my/api/fera/swagger/index.html">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Fyzee-GitHub/fyzee-test/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Fyzee-GitHub/fyzee-test/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -56,22 +56,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://blueberry.etiqapartner.com.my/fera/)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Fast and Easy Recruitment Application (FERA) is a web-based application that aims to digitalize the agent recruitment process. FERA serve two (2) types of users:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+1.1.	Agency force user — The user will access the site through the EaSE mobile app, which will open as a web view on top of the mobile app.
+1.2.	Backoffice staff — The user will access the site via a web browser.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Both types of users will have different designs of view, agency force user view is designed to fit into EaSE & iPad landscape view. Meanwhile, the Backoffice user view is for monitor-based browsers only.
 
-Use the `BLANK_README.md` to get started.
+FERA provides a digital platform for the agency force and regional staff of Etiqa Malaysia to recruit new agents. Every release aims are to introduce a new module and/or enhancements to the existing modules to users from the feedback after they experience them.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -148,7 +144,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Fyzee-GitHub/fyzee-test/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,16 +208,14 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[repo-url]: https://github.com/Fyzee-GitHub/fyzee-test
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[contributors-shield]: https://img.shields.io/badge/contributors-aaaa-blue
+[contributors-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/Fyzee-GitHub/fyzee-test/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/Fyzee-GitHub/fyzee-test/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/Fyzee-GitHub/fyzee-test/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
