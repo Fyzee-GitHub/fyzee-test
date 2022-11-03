@@ -64,16 +64,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://blueberry.etiqapartner.com.my/fera/)
+Frontend screen.
+[![Frontend Screen Shot][frontend-screenshot]](https://blueberry.etiqapartner.com.my/fera/)
 
 Fast and Easy Recruitment Application (FERA) is a web-based application that aims to digitalize the agent recruitment process. FERA serve two (2) types of users:
 
-1.1.	Agency force user — The user will access the site through the EaSE mobile app, which will open as a web view on top of the mobile app.
-1.2.	Backoffice staff — The user will access the site via a web browser.
+    1.1.	Agency force user — The user will access the site through the EaSE mobile app, which will open as a web view on top of the mobile app.
+    1.2.	Backoffice staff — The user will access the site via a web browser.
 
 Both types of users will have different designs of view, agency force user view is designed to fit into EaSE & iPad landscape view. Meanwhile, the Backoffice user view is for monitor-based browsers only.
 
 FERA provides a digital platform for the agency force and regional staff of Etiqa Malaysia to recruit new agents. Every release aims are to introduce a new module and/or enhancements to the existing modules to users from the feedback after they experience them.
+
+Backend screen.
+[![Backend Screen Shot][backend-screenshot]](https://blueberry.etiqapartner.com.my/api/fera/swagger/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,8 +207,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [commits-shield]: https://img.shields.io/badge/commits-✅-green
 [commits-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/commit-activity
@@ -217,7 +219,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/badge/license-📃-black
 [license-url]: https://github.com/Fyzee-GitHub/fyzee-test/blob/master/LICENSE.txt
 
-[product-screenshot]: images/screenshot.png
+[frontend-screenshot]: images/frontend.png
+[backend-screenshot]: images/backend.png
 
 [.NET]: https://img.shields.io/badge/.NET-563D7C?style=for-the-badge&logo=.NET&logoColor=white
 [.NET-url]: https://dotnet.microsoft.com/en-us/
