@@ -1,6 +1,11 @@
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -207,18 +212,19 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/contributors-🌟-blue
+[contributors-shield]: https://img.shields.io/badge/commits-✅-green
+[contributors-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/commit-activity
+[contributors-shield]: https://img.shields.io/badge/contributors-👨‍🔬-blue
 [contributors-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/badge/contributors-🌟-yellow
 [stars-url]: https://github.com/Fyzee-GitHub/fyzee-test/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/badge/contributors-🐞-red
 [issues-url]: https://github.com/Fyzee-GitHub/fyzee-test/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/license-📃-black
 [license-url]: https://github.com/Fyzee-GitHub/fyzee-test/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+
 [product-screenshot]: images/screenshot.png
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
