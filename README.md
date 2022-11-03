@@ -47,8 +47,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -78,6 +76,7 @@ FERA provides a digital platform for the agency force and regional staff of Etiq
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Add new module (e-Submission) for MVP 3.0 release.
