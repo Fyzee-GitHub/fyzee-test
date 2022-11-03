@@ -208,7 +208,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/contributors-aaaa-blue
+[contributors-shield]: https://img.shields.io/badge/contributors-🌟-blue
 [contributors-url]: https://github.com/Fyzee-GitHub/fyzee-test/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Fyzee-GitHub/fyzee-test/stargazers
