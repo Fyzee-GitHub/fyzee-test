@@ -79,7 +79,7 @@ FERA provides a digital platform for the agency force and regional staff of Etiq
 
 ### Built With
 
-* [![.Net][.Net]][.Net-url]
+* [![.NET][.NET]][.NET-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,5 +219,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [product-screenshot]: images/screenshot.png
 
-[.Net]: https://img.shields.io/badge/.net-000000?style=for-the-badge&logo=.net&logoColor=white
-[.Net-url]: https://dotnet.microsoft.com/en-us/
+[.NET]: https://img.shields.io/badge/.NET-563D7C?style=for-the-badge&logo=.NET&logoColor=white
+[.NET-url]: https://dotnet.microsoft.com/en-us/
