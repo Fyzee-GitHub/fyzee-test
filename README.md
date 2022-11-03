@@ -64,7 +64,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Frontend screen.
+  Frontend screen.
+
 [![Frontend Screen Shot][frontend-screenshot]](https://blueberry.etiqapartner.com.my/fera/)
 
 Fast and Easy Recruitment Application (FERA) is a web-based application that aims to digitalize the agent recruitment process. FERA serve two (2) types of users:
@@ -76,7 +77,8 @@ Both types of users will have different designs of view, agency force user view 
 
 FERA provides a digital platform for the agency force and regional staff of Etiqa Malaysia to recruit new agents. Every release aims are to introduce a new module and/or enhancements to the existing modules to users from the feedback after they experience them.
 
-Backend screen.
+  Backend screen.
+  
 [![Backend Screen Shot][backend-screenshot]](https://blueberry.etiqapartner.com.my/api/fera/swagger/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
