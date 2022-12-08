@@ -6,6 +6,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![fyzee-test main-ci][buildstatus-shield]][buildstatus-url]
 
 </div>
 
@@ -93,6 +94,8 @@ See the [open issues](https://github.com/Fyzee-GitHub/fyzee-test/issues) for a f
 [stars-url]: https://github.com/Fyzee-GitHub/fyzee-test/stargazers
 [issues-shield]: https://img.shields.io/badge/issues-🐞-red
 [issues-url]: https://github.com/Fyzee-GitHub/fyzee-test/issues
+[buildstatus-shield]: ${{secrets.REPOSITORY_BASE_URL}}/ETIQA-CHANNELS/epp-eiw-sdk/actions/workflows/main-ci.yml/badge.svg
+[buildstatus-url]: ${{secrets.REPOSITORY_BASE_URL}}/ETIQA-CHANNELS/epp-eiw-sdk/actions/workflows/main-ci.yml
 
 [frontend-screenshot]: images/frontend.png
 [backend-screenshot]: images/backend.png
